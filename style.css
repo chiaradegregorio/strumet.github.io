@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  font-family: serif;
+}
+
+
+
+p {
+   font-family: sans-serif;
+   color: black;
+
+}
+
+ul {
+    font-family: sans-serif;
+    color: black;
+}
+
+img{ max-height: 400px;
+}
+
+#img"CAMERA1" { max-height: 600px;
+}
